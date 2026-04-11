@@ -4,11 +4,18 @@
     align-items: center;
     gap: 30px;
     font-family: "Inter", sans-serif;
+    font-size: 16px;
     border: #333333 solid 1px;
     border-radius: 16px;
     padding: 20px 40px;
     width: 300px;
     background-color: #DBDBDB;
+}
+
+.form-container a {
+    color: #5347DD;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 .form-header {
@@ -23,6 +30,7 @@ form {
     align-items: stretch;
     gap: 30px;
     width: 100%;
+    font-size: 20px;
 }
 
 form span {
